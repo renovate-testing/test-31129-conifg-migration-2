@@ -2,6 +2,5 @@
   "dependencyDashboard": true,
   "prConcurrentLimit": 0,
   "prHourlyLimit": 0,
-  "semanticCommitType": "fix",
-  "semanticCommitScope": "deps"
+  "semanticPrefix": "fix(deps): "
 }
